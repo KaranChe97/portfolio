@@ -21,7 +21,7 @@ const Projects = () => {
     },
     {
       name: "Live Insights - Sales Finance portal with customisable filters",
-      images: ["/images/live-1.svg", "/images/live-2.png"],
+      images: ["/images/live-3.svg", "/images/live-1.svg", "/images/live-2.svg"],
       technologies: ["React", "Recharts", "ApexCharts"],
     },
     {
