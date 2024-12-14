@@ -19,6 +19,8 @@ module.exports = {
         'notion-purple': 'var(--notion-purple)',
         'notion-pink': 'var(--notion-pink)',
         'notion-red': 'var(--notion-red)',
+        'notion-white': '#ffffff',
+        'notion-brown': '#937264',
       },
     },
   },

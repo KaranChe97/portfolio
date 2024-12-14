@@ -53,7 +53,7 @@ const Experience = () => {
         <div key={index} className="mb-6">
           <h3 className="notion-h3">{exp.company}</h3>
           {exp.positions.map((pos, posIndex) => (
-            <div key={posIndex} className="mb-4">
+            <div key={posIndex} className={`mb-4 ${posIndex === exp.positions.length - 1 ? '' : 'border-b border-notion-gray'}`}>
               <h4 className="font-medium">{pos.title}</h4>
               <p className="text-sm text-notion-gray-dark mb-2">{pos.period}</p>
               <ul className="list-disc list-inside">
