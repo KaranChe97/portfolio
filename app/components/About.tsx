@@ -7,7 +7,7 @@ const About = () => {
         I began my career developing multiple service-based products using React.js and
         later pivoted to bootstrap the product Fieldproxy. Currently, I lead the front-end
         product team, where I play an active role in user research, building and testing MVPs,
-        developing and maintaining core products, and ensuring quanpm lity through design and
+        developing and maintaining core products, and ensuring quality through design and
         code reviews. I also monitor application performance and experiment with feature
         flags to drive adoption. With a focus on agility, I excel at rapidly delivering solutions
         and workarounds for immediate requirements while exploring innovative tools and
